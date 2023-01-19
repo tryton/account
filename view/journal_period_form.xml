@@ -10,4 +10,6 @@ this repository contains the full copyright notices and license terms. -->
     <field name="active"/>
     <label name="state"/>
     <field name="state" colspan="5"/>
+    <button name="reopen" string="Re-Open"/>
+    <button name="close" string="Close"/>
 </form>
